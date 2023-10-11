@@ -1,0 +1,9 @@
+{
+	"name": "HotelBookings-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a73c0ce0-a428-4e48-aad3-3b8485b5cdb6",
+		"tenantId": "a83be818-4c9a-461d-9af6-38715591350c"
+	}
+}
